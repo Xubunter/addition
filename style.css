@@ -1,0 +1,18 @@
+fieldset { 
+	width: 200px;
+	padding: 20px; 
+	display: block;
+	margin:0 auto;
+}
+
+input[type= "text"]{
+	 width: 100%; 
+	 margin-bottom: 5px;
+}
+
+input[id="result"]{
+	padding-left: 5px;
+	margin-left: 8%;
+	width: 50%;
+	background: #FFFFFF;
+}
